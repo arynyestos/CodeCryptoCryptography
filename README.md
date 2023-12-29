@@ -1,5 +1,5 @@
 # Cryptography Project
-This was the fifth of the CodeCrypto web 2 projects. Here the aim was to dig deeper into cryptography, since it is ultimately the base of cryptocurrencies and Blockchain technology.
+This was the fifth of the CodeCrypto web 2 projects. Here the aim was to dig deeper into cryptography, since it is ultimately the base of cryptocurrencies and Blockchain technology. Below you can find a walkthrough of how you can replicate this project yourself!
 
 ## Goals
 1. Facilitate reliable file exchange. Users shall possess a key pair (public and private).
