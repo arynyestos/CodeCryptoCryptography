@@ -16,7 +16,7 @@ This Node.js project is comprised of three programs:
 1. Decryption: Allows decryption of encrypted files.
 
 ## Setup
-Navigate to the project folder and open the terminal: yarn init -y
+Navigate to the project folder and open the terminal: ```yarn init -y```
 
 ### Key Generation
 Create the file generate-keys.js
